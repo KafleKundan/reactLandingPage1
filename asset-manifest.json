@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactLandingPage1/static/css/main.244efde8.css",
+    "main.js": "/reactLandingPage1/static/js/main.07218edf.js",
+    "static/media/blog2.png": "/reactLandingPage1/static/media/blog2.2e58171ebcf514b01cc2.png",
+    "static/media/blog1.png": "/reactLandingPage1/static/media/blog1.f0a19999bcdbc2524a62.png",
+    "static/media/blog3.png": "/reactLandingPage1/static/media/blog3.cf35cda5f4ee324fa607.png",
+    "static/media/whyjoinsingleimg.png": "/reactLandingPage1/static/media/whyjoinsingleimg.0a7d361bd1c519b950d1.png",
+    "static/media/whyjointwoimg2.png": "/reactLandingPage1/static/media/whyjointwoimg2.b8d787e464f57d9a8f04.png",
+    "static/media/whyjointwoimg1.png": "/reactLandingPage1/static/media/whyjointwoimg1.ff594c7c96d91f314cc9.png",
+    "static/media/AppAdImgRight.png": "/reactLandingPage1/static/media/AppAdImgRight.d9b4e70c4c6971010ad8.png",
+    "static/media/heroRight.svg": "/reactLandingPage1/static/media/heroRight.a26d9049e1b2396de98d073fde03b7dd.svg",
+    "static/media/staff4.png": "/reactLandingPage1/static/media/staff4.0ff10303953d37e85ed6.png",
+    "static/media/staff3.png": "/reactLandingPage1/static/media/staff3.aceed3b78fdb08b22c9b.png",
+    "static/media/staff1.png": "/reactLandingPage1/static/media/staff1.efb26f967976e8362ebc.png",
+    "static/media/staff2.png": "/reactLandingPage1/static/media/staff2.68ca1f36b4f712d7256c.png",
+    "static/media/blog4.png": "/reactLandingPage1/static/media/blog4.d0b05de2506046ac8e0b.png",
+    "static/media/achievementsLeft.png": "/reactLandingPage1/static/media/achievementsLeft.6c61bdeecf49448a214d.png",
+    "static/media/imageAbstract.png": "/reactLandingPage1/static/media/imageAbstract.91f11a117004a89e3fae.png",
+    "static/media/logo.svg": "/reactLandingPage1/static/media/logo.df206e968fd260c8a8a84241cea6fea5.svg",
+    "index.html": "/reactLandingPage1/index.html",
+    "main.244efde8.css.map": "/reactLandingPage1/static/css/main.244efde8.css.map",
+    "main.07218edf.js.map": "/reactLandingPage1/static/js/main.07218edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244efde8.css",
+    "static/js/main.07218edf.js"
+  ]
+}
